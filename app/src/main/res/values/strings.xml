@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WarehouseApp</string>
+    <!-- UPDATE THIS URL TO YOUR ODOO URL -->
+    <string name="odoo_url">https://fahad-rm-apptest3-app3-staging-28900099.dev.odoo.com/web#action=tts_warehouse_mobile.action_warehouse_app</string>
+</resources>
